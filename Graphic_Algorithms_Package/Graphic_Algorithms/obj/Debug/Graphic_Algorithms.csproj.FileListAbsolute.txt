@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\bin\Debug\Graphic_Algorithms.exe.config
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\bin\Debug\Graphic_Algorithms.exe
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\bin\Debug\Graphic_Algorithms.pdb
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\obj\Debug\Graphic_Algorithms.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\obj\Debug\Graphic_Algorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\obj\Debug\Graphic_Algorithms.Form1.resources
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\obj\Debug\Graphic_Algorithms.Properties.Resources.resources
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\obj\Debug\Graphic_Algorithms.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\obj\Debug\Graphic_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\obj\Debug\Graphic_Algorithms.exe
+C:\Users\HP\source\repos\Graphic_Algorithms\Graphic_Algorithms\obj\Debug\Graphic_Algorithms.pdb
